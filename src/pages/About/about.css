@@ -1,0 +1,28 @@
+#abo{
+    background: #101010;
+    color: #808080;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#abo_home {
+    background: url(../images/about-header.jpg) ;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    padding-top: 160px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
+#about_i{
+    border: 2px solid #303030;
+}
+
+#hr{
+    border-color: #303030;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 0;
+    border-top: 1px solid #303030;
+}

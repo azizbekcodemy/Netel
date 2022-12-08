@@ -1,0 +1,38 @@
+#copiy{
+    background: #1c1c1c;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.input{
+    width: 65%;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 0px;
+    padding-bottom: 10px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555
+}
+.copy_btn{
+    width: 28%;
+    padding: 10px 12px;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 0px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+}
+#icon{
+    margin-left: 30%;
+    margin-top: 20%;
+    color: #909090;
+    text-decoration: none;
+    font-size: 22px;
+    text-align: center;
+}
+#iconn:hover{
+    background: #d54ab6 ;
+    transition: all 0.3s ease 0s;
+}

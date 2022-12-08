@@ -1,0 +1,22 @@
+#navbar {
+   background: #202020;
+    border: none;
+    border-left: 6px solid #d54ab6;
+    padding-right: 100px;
+    margin: 0 ;
+    position: relative;
+    top: 30px;
+    z-index: 1100;
+    max-width: 1150px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+.col1:hover{
+    color: red;
+
+}
+
+
+
+

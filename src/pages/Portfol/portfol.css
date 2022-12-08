@@ -1,0 +1,17 @@
+#po{
+    background: #101010;
+    color: #808080;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+#po_home {
+    background: url(../images/portfolio-header.jpg) ;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    padding-top: 160px;
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+}
